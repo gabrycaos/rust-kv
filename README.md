@@ -205,7 +205,7 @@ This project is released under the GNU GENERAL PUBLIC  LICENSE version 3.0. See 
 
 ## 👨‍💻 Author
 
-Gabriele Falasca - [GitHub](https://github.com/falascagabriele)
+gabrycaos - [GitHub](https://github.com/gabrycaos)
 
 ## 🙏 Acknowledgments
 

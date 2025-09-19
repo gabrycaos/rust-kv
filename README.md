@@ -201,7 +201,7 @@ The optimized executable will be available at `target/release/rust_kv`.
 
 ## 📄 License
 
-This project is released under the MIT License. See the `LICENSE` file for details.
+This project is released under the GNU GENERAL PUBLIC  LICENSE version 3.0. See the `LICENSE` file for details.
 
 ## 👨‍💻 Author
 
